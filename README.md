@@ -2,7 +2,7 @@
 
 🚗 Automotive Software Engineer | ⚙️ Embedded C | 🧠 AI Researcher in Vehicle Control
 
-- 🔧 Specializing in ECU, AUTOSAR, FMEA
+- 🔧 Specializing in C , AUTOSAR, FMEA
 - 🤖 Patenting ML-based stroke sensor calibration systems
 - 📚 Loves clean code, debugging, and real-time systems
 - 🛠️ Tools: Python, C, MATLAB, CANoe, Polyspace
