@@ -11,4 +11,4 @@
 ![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwongd&show_icons=true&theme=default)
 
 ## 🔗 Contact
-[![Gmail](https://img.shields.io/badge/email-jaewon@example.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jaewon396@gmail.com)
+[![Gmail](https://img.shields.io/badge/email-jaewon396@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jaewon396@gmail.com)
